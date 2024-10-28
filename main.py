@@ -7,7 +7,5 @@
 6-> Creando un punto de guardado(commit) -> git commit -m "Descripcion del guardado"
 7-> Subiendo el commit al remoto -> git push origin main | git push <origen> <rama>
 
-notas: Agregando perfil 
-git config user.email "jduqueg2@correo.tdea.edu"
-git config user.name "Juan Duque"
 '''
+
